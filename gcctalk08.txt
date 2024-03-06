@@ -1,0 +1,10 @@
+Integrating Parallel and Distributed Computing across Scientific and Web 2.0 Applications
+
+Geoffrey Fox
+
+Indiana University
+
+Abstract
+--------
+
+Distributed computing is changing with grids, clouds and Web 2.0 data intensive computing. At the other end of the spectrum we find individual multicore chips that offer a "Grid on a Chip". We have a variety of runtimes including inter-service messaging, Hadoop, publish-subscribe, MPI and threading. These have different latencies, quality of service, flexibility and ease of use. We have programming models including service oriented architectures, workflow, mash-ups, MapReduce and various data-parallel paradigms. We compare these approaches on distributed and parallel systems for data analysis applications in bioinformatics and particle physics. We suggest that integration of these ideas and software environments from different sources will enable a new generation of high performance, user friendly fault tolerant programming environments.

@@ -1,0 +1,109 @@
+
+This could be done at a high level in one 2 hour session
+We could if you prefer arrange as two such sessions
+Talking to Bill, it seemed best to hold tutorial after a demo!
+
+Global Multimedia Collaboration System
+
+Geoffrey Fox
+
+Abstract
+
+Collaboration systems enable people in remote places to communicate and cooperate together. It will bring substantial benefits to Internet users if we can build an integrated collaboration environment, which combines conferencing, streaming, instant messaging as well as other collaborations into a single easy-to-use, intuitive environment. However, traditional collaboration system can only provides limited collaboration capabilities to a small group people in a local or private community. They have features that sometimes can be compared but often the systems make implicit architecture and implementation assumptions that hamper interoperability and functionality.
+
+The objective of the tutorial is to give a comprehensive overview of well-known multimedia collaboration technologies and introduce a more general framework to cover the wide range of collaboration solutions and allow different users from the different communities to collaborate. This tutorial will present Web-Services based solution and discuss two open source systems "NaradaBrokering" and "Global Multimedia Collaboration System" as an illustration about how to apply Web-services and overlay networking in massive scale collaborations.
+
+Keywords
+
+Collaboration, Web-Services, Multimedia, Overlay Networking, XGSP, NaradaBrokering, H.323, AccessGrid, RealStreaming
+
+
+   Target Audience
+
+The target audience consists of researchers from in technical industries, research laboratories, and academic environments, who are working on multimedia collaboration services. There is no prerequisite knowledge required.
+
+
+ Tutorial Structure
+
+Part I. Introduction to Collaboration Frameworks
+
+1. H.323 and T.120
+
+2. SIP
+
+3. AccessGrid
+
+4. RealStreaming
+
+5. Instant Message: MSN, Yahoo,AoL and Skype
+
+Part II NaradaBrokering
+
+1. Basic Features
+
+2. JMS and Publish/Subscribe
+
+3. NaradaBrokering and JXTA Federation
+
+4. Web/Grids Service Messaging Substrate
+
+5. Reliable Messaging
+
+6. RTP Transportation in NaradaBrokering
+
+7. Firewall & NAT Transversal
+
+8. NTP Service
+
+9. Archiving & Replay
+
+10. Related Work: Remote-Style, WS-Eventing/Notification, Multicast,..
+
+Part III XML based General Session Protocol
+
+  1. Design Principle: Web-Services and Collaboration
+  2. Overlay Networking for collaboration: NaradaBrokering
+  3. General Conference Control Framework
+  4. Common Audiovisual Signaling Protocol
+  5. Related Work: H.323, SIP, AccessGrid, Skype)
+
+Part IV Global-MMCS
+
+  1. NaradaBrokering for Media Delivery
+  2. Media Processing Service
+  3. Media Arching and Replay Service
+  4. H.323 Gateway
+  5. Streaming Gateway
+  6. Mobile Gateway
+  7. Application in E-Sports and E-Science
+
+
+ Instructor
+
+Geoffrey Fox is Anabas CTO and architect of the Anabas Collaboration Framework. He is a pioneer in Web-based collaboration. His deep expertise covers many academic disciplines and industries as indicated in his biography in the Key Personnel section below. Fox received a Ph.D. in Theoretical Physics from Cambridge University and is now professor of Computer Science, Informatics, and Physics at Indiana University. He is director of the Community Grids Laboratory (CGL) of the Pervasive Technology Laboratories at Indiana University. He previously held positions at Caltech, Syracuse University and Florida State University. He has a taught and researched at international level in both physics and computer science. At Caltech he was a Professor of physics and chair of the physics option and associate provost for computing. His work on computing covered computational physics and modeling (with Feynman), computer algebra (with Wolfram), parallel computing (developing some of the fundamental principles of using MIMD machines in scientific simulation) and now Grids.
+
+
+ References
+
+[1] ITU. Recommendation H.323(1999), Packet-base multimedia communications systems.
+
+[2] J. Rosenberg et al. (2002) "SIP: Session Initiation Protocol", RFC 3261, Internet Engineering Task Force, http://www.ietf.org/rfc/rfc3261.txt.
+
+[3] Access Grid (2003), http://www.accessgrid.org
+
+[4] ITU. Recommendation T.124 (1995) Generic conference control, 1995.
+
+[5] Geoffrey C. Fox and Shrideep Pallickara (2002). "The Narada Event Brokering System: Overview and Extensions", proceedings of the 2002 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'02)
+
+[6] Geoffrey Fox, Shrideep Pallickara and Savas Parastatidis Towards Flexible Messaging for SOAP Based Services, Proceedings of the IEEE/ACM Supercomputing Conference November 2004. Pittsburgh, PA.
+
+[7] Wenjun Wu, Geoffrey Fox, Hasan Bulut, Ahmet Uyar, Harun Altay," Design and Implementation of A Collaboration Web-services system", Journal of Neural, Parallel & Scientific Computations, Volume 12, 2004. 
+
+[8] Wenjun Wu, Hasan Bulut, Ahmet Uyar, Geoffrey C. Fox, "A Web-Services based Conference Control Framework for Heterogenous A/V collaboration", 7th IASTED International Conference on INTERNET AND MULTIMEDIA SYSTEMS AND APPLICATIONS, August 13-15, 2003, Honolulu, Hawaii.
+
+[9] Sun Microsystems, Java Media Framework 2.1, (2001), http://java.sun.com/products/javamedia/jmf/2.1.1/index.html.
+
+[10] OpenH323 Project (2001) , http://www.openh323.org
+
+
+

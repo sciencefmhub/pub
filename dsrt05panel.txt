@@ -1,0 +1,26 @@
+Revisiting Distributed Simulation and the Grid: A Panel
+
+Taylor, S.J.E.; Fox, G.; Fujimoto, R.; Pullen, J.M.; Roberts, D.J.;
+Theodoropoulos, G.K.;
+
+Abstract
+
+
+The Grid, or Grid Computing, provides a new and unrivalled technology
+for large scale distributed simulation as it enables collaboration and
+the use of distributed computing resources. Last year at DS-RT 2004 a
+panel was convened to consider the impact of the Grid on Distributed
+Simulation. Four members presented their views of this area and
+together they tried to identify the main research issues involved in
+applying Grid technology to distributed simulation and the key future
+challenges that need to be solved to achieve this goal. These
+challenges included not only technical ones, but also social ones such
+as management methodology and the development of standards. This year
+we revisit this fast changing technology and ask the questions:
+
+ * What major changes has Grid Computing had over the past year?
+ * How can distributed simulation and related applications benefit    
+   from Grid Computing?
+ * What are the barriers to this?
+ * Are there alternative new technologies that would be a better ROI 
+   for distributed simulation than Grid Computing?

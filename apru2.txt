@@ -1,0 +1,23 @@
+Title: Web 2.0 and Cloud Computing
+
+
+Authors: Geoffrey Fox and Marlon Pierce (Community Grids Laboratory, Indiana University, Bloomington, IN 47401; Tel 812-856-1212; email: mpierce@cs.indiana.edu)
+We discuss the impact of Web 2.0 and Cloud Computing on geo-sciences and on e-Science generally. Social networks, user driven content, ”start page” portals, gadgets/widgets, mash-ups, REST-style web services, RSS/Atom feeds, JSON, and AJAX have transformed Web computing and have challenged our assumptions about how Web applications should be designed and built and who should build them.
+Web 2.0 provides a comprehensive network programming environment that matches well against the nominally organized Web Services architecture used by QuakeSim and other projects. Inevitably, these new techniques will have an impact on e-Science, both in the way data are delivered and shared and the way that scientists interact with each other. One of the interesting side-effects of Web 2.0 is the "do it yourself" trend in Web computing, which can be viewed as a reaction against the excessively complicated "enterprise" development models used by Grids and Web Services.  The enterprise model requires much specialized knowledge that often relegates scientists to customers of their Information Technology partners in large projects.  In contrast, the simplicity of the Web 2.0 technologies has (judging from the number of mash-ups listed at programmableweb.com) the potential for removing these barriers and democratizing Web-based science.
+
+Cloud computing (such as Amazon's EC2 and S3 online services, the Google App Engine, and Microsoft's SkyDrive) are all examples of cloud computing infrastructure, in which basic computing needs such as storage, computing, and hosting are provided as services by companies.  The interiors of such systems are interesting and make use of virtual machine technologies, but such details are not exposed to the user.  This technology movement is closely related to the advent of multicore and other computing architectures, which are well-matched to virtualization technologies such as VMWare, Xen, and OpenVZ. 
+We discuss these trends as well as academic efforts aimed at scientific computing requirements.  In particular, we discuss the proposed "QuakeSpace" Web 2.0 and Cloud system that was an outcome of the 2008 ACES Meeting () and its potential for sharing data, applications, and information through social networks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

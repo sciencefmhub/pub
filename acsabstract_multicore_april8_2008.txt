@@ -1,0 +1,7 @@
+High Performance Robust Datamining for Cheminformatics
+------------------------------------------------------------
+Geoffrey Fox, Seung-Hee Bae, Rajarshi Guha, Marlon E. Pierce, Xiaohong Qiu, David J. Wild , H. Yuan
+
+Abstract
+---------
+We describe a suite of parallel data mining algorithms applied to Cheminformatics and Bioinformatics. The algorithms are packaged as services that execute in parallel on multicore clusters obtaining high efficiency on large problems. The main implementation language is C# but the performance analysis includes other languages (C,C++). Initially the suite includes clustering, mixture models and a variant of GTM (Generative Topographic Mapping) for visualization. We use deterministic annealing introduced by Durbin for TSP, Rose for clustering and Ueda and Nakano for mixtures to lessen chance of being trapped in local minima. This approach allows number of clusters and mixtures to be determined by dataset and not specified a priori. The presentation presents initial applications and detailed performance results.

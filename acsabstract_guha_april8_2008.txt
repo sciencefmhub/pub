@@ -1,0 +1,17 @@
+I don't care where my data and methods are: A web-service approach
+for distributed access to methods, data and models.
+
+In recent years cheminformatics has been enhanced with the public
+availability and accesibility of methods and chemical and biological
+data.  This talk will highlight recent progress on the development of a
+web service based infrastructure to provide  uniform and distributed
+access to methods, data and models in a general manner.  I will focus on
+the use of the infrastructure to provide access to a variety of
+statistical methods and predictive models, highlighting a number of
+applications based on these services. In addition to providing access to
+data, it is useful to add value to current data sources. I will
+present a shape searchable, single conformer, 3D derivative of PubChem
+allowing one to retrieve similar shaped molecules in 10 to 30 sec
+depending on similarity cutoffs. I will discuss  some approaches that
+will allow us to include arbitrary numbers of conformers yet still
+maintain reasonable query times.
