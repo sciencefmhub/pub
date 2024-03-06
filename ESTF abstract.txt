@@ -1,0 +1,30 @@
+
+NASA Earth Science Technology Forum(ESTF) Abstract Submission Confirmation
+
+Presenter's Information
+--------------------
+
+First Name: Andrea
+Last Name: Donnellan
+Organization: Jet Propulsion Laboratory
+Phone: 818-354-4737
+
+Paper Information
+-----------------
+
+Paper Number: ESTF-11-0010
+Title: QuakeSim Computational Environment
+Authors and Co-Authors: Andrea Donnellan, Jay Parker, Robert Granat, Greg Lyzenga, Jet Propulsion Laboratory, California Institute of Technology
+John Rundle, UC Davis
+Dennis McLeod, Rami Al-Ghanmi, University of Southern California
+Geoffrey Fox, Marlon Pierce, Indiana University
+Lisa Grant, University of California, Irvine
+
+Abstract: QuakeSim is a computational environment that integrates multiple heterogeneous data sets, crustal deformation modeling tools, and pattern recognition techniques for studying earthquake processes and forecasting their behavior. Recent developments in QuakeSim include improved mapping and visualization tools for exploring and selecting data, enhancement to model applications, addition of UAVSAR data to the QuakeTables database, and improved pattern analysis methods.  The recent magnitude 7.2 El-Mayor/Cucapah earthquake in Baja California that occurred in April 4, 2010 has provided a useful testbed and science environment.  RDAHMM, disloc, simplex, Virtual California, and RIPI have been used to analyze motions that occurred as a result of the earthquake as well as address the implications for future earthquakes in southern California.  Analysis of Virtual California simulations suggests that the long strike-slip faults in southern California could rupture following a Baja type event. GPS time series as analyzed through RDAHMM showed state changes on the San Andreas, Elsinore, and San Jacinto faults in conjunction with the earthquake.  The locations of these state changes correlated to creep events observed on these faults. A northward propagation of state changes several weeks after the earthquake culminated in the M 5.4 Collins Valley earthquake near the Coyote Creek Segment of the San Jacinto Fault.  The RIPI forecasting methodology was used to target regions of higher hazard in California, which included southern California north of the rupture termination. Currently Virtual California handles vertical strike-slip faults.  Combining Virtual California with GeoFEST will allow for studying interacting faults of any orientation. We are populating the QuakeTables database with the best estimates of the faults in California and are adding UAVSAR data as they become available.
+
+
+
+
+
+
+

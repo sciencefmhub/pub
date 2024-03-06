@@ -1,0 +1,34 @@
+Subject:
+AARSE Abstract SUBMITTED
+From:
+haydenl@mindspring.com
+Date:
+Tue, 15 Apr 2008 16:02:26 -0400 (EDT)
+To:
+akadade@mail.ecsu.edu
+CC:
+gcf@indiana.edu
+
+HELLO ADADE AND FOX,  I SUBMITTED THE FOLLOWING ABSTRACT TO THE AARSE CONFERENCE.  SEE http://www.aarse2008.org/ FOR CONFERENCE DETAILS.  MOST OF THIS TEXT CAME FROM THE RECENT REPORT SUBMITTED BY DR. FOX.
+
+LINDA
+========================================
+Title: Implementing Cyberinfrastructure in Support of Greenland and Antarctic SAR Data Sets
+
+Authors:
+Dr. Linda B. Hayden, Director, ECSU Center of Excellence in Remote Sensing Education and Research Box 672 ECSU 1704 Weeksville Road Elizabeth City, NC 27909 Phone:(252) 335-3696, Fax:(252) 335-3790, Email:HAYDENL@MINDSPRING.COM
+
+Dr. Geoffrey Fox, Indiana University,  Distinguished Scientist and Director, Community Grids Lab Indiana University 501 N. Morton, Suite 224 Bloomington, Indiana 47404 Fax: (812)856-7972 http://www.infomall.org Phone: (812)219-4643,    Email:gcf@indiana.edu
+
+Mr. Anthony Adade, Chief Information Officer, Elizabeth City State University, Box 766 ECSU 1704 Weeksville Road Elizabeth City, NC 27909, Phone: (252) 335-3203, Fax:(252) 335-3447  Email: akadade@mail.ecsu.edu
+
+SUB-THEME 7: EARTH MAPPING SYSTEMS AND GOVERNANCE
+*Integrating Spatial Data Infrastructure and information & Communication Technology
+
+This paper will detail the work of the PolarGrid project.  The PolarGrid project is designing and building the hardware and software for PolarGrid which supports data analysis and simulations for Polar Science. Polargrid federates Grids at the North and South pole with both dedicated and TeraGrid infrastructure in the continental USA. Recent polar satellite observations show disintegration of ice shelves in West Antarctica and speed-up of several glaciers in southern Greenland. The great ice sheets in Antarctica and Greenland interact with the global climate in a complex manner, and the impact on global sea level of their retreat would be profound. Most of the existing ice-sheet models, including those used by the Intergovernmental Panel on Climate Change (IPCC), cannot explain the rapid changes being observed. PolarGrid supports the work of the Center for Remote Sensing of Ice Sheets (CReSIS) which is developing new technologies to perform 3-D characterization of ice sheets to understand the physics of rapid changes, and develop models to explain observed changes and predict future behavior. In particular, expeditions this summer will take Synthetic Aperture Radar (SAR) data which can image the beds of ice-sheets and provide crucial input to models.
+
+The project team from Indiana University and Elizabeth City State University (ECSU in North Carolina) has built a PolarGrid laboratory at ECSU and in a recent meeting completed design of the Grid that will be used in expeditions to Greenland and Antarctica in 2008. This expedition grid has a base camp (64 cores and over 25 terabytes of storage) and a highly mobile field camp module.  The paper presented at AARSE 2008 will provide details of this important project which has significant impact on Integrating Spatial Data Infrastructure and information & Communication Technology.
+
+
+
+
