@@ -1,0 +1,76 @@
+Educational Virtual Clusters for On-demand MPI/Hadoop/Condor in Future
+  Grid
+
+
+      Authors:
+
+Renato Figueiredo (University of Florida), David Wolinsky (University of
+Florida) and Panoat Chuchaisri (University of Florida)
+
+
+      Time:
+
+10:00am - 12:00pm
+
+
+      Abstract:
+
+FutureGrid (www.futuregrid.org) is an experimental computational testbed
+slated to become part of the TeraGrid infrastructure. FutureGrid
+provides unique capabilities that enable researchers to deploy
+customized environments for their experiments in grid and cloud
+computing. A key enabling technology for this is virtualization and the
+provisioning of Infrastructure-as-a-Service (IaaS) through cloud
+computing middleware. A previous presentation on TeraGrid 2010 has
+described the core technology that forms the basis for FutureGrid
+training and education activities -- a system which leverages
+virtualization, cloud computing and self-configuring capabilities to
+create self-contained, flexible, plug-and-play "educational appliances".
+
+In this abstract, and in the presentation at the conference, we will
+describe and demonstrate how educational virtual appliances are
+automatically self-configured to enable on-demand deployment of three
+popular distributed/cloud computing stacks (Condor, MPI, and Hadoop)
+within and/or across FutureGrid sites. The main benefit of this
+capability to educational activities is that isolated virtual clusters
+for individuals or classes can be created on demand by instructors (or
+students themselves), and the entire middleware is self-configured,
+allowing activities to focus on the application of distributed/cloud
+computing platforms rather than the configuration of middleware. The
+provisioning time of an isolated, educational virtual cluster is of the
+order of a few minutes. It requires no configuration from instructors or
+students other than joining a Web 2.0 site to create and manage a group
+for their class.
+
+In terms of design and implementation, the educational virtual cluster
+on-demand uses Condor as the underlying scheduler by leveraging previous
+work on the Grid Appliance. Condor is then used to dispatch MPI and
+Hadoop daemons -- users create on-demand MPI or Hadoop virtual clusters
+by submitting Condor jobs. MPI tasks are submitted as together with the
+job that creates an MPI ring, while Hadoop tasks are submitted to the
+virtual cluster using standard Hadoop tools.
+
+The integration with FutureGrid is such that new users can deploy a
+single virtual machine on FutureGrid (using Nimbus or Eucalyptus), and
+the machine automatically connects to a small "sandbox" public shared
+resource pool where the user is able to go through simple tutorials and
+interact with a virtual cluster with short turn-around time. Users can
+also deploy private virtual clusters by creating a group using a simple
+Web 2.0 user interface.
+
+At the conference, the presentation of this abstract will describe the
+design principles, architecture, and deployment experiences with
+on-demand virtual clusters based on virtual appliance technologies used
+in education and training in FutureGrid. This includes an overview of
+the underlying virtual appliance technology, and the process of
+automatic configuration of Condor, MPI and Hadoop on-demand. In addition
+to training/education, it is expected that these techniques can be of
+interest to a broader TeraGrid'11 audience because they can be applied
+for the creation of virtual clusters on demand to support other
+applications and experiments on FutureGrid and TeraGrid. The
+presentation will describe examples of using these appliances in
+hands-on educational activities, including a TeraGrid introduction to
+MPI module, with a brief hands-on demonstration using the presenter's
+laptop. Attendees of this presentation will be exposed to the process of
+how they would go about creating a virtual cluster of their own on
+FutureGrid for educational activities involving Condor, MPI and/or Hadoop.

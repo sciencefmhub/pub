@@ -1,0 +1,16 @@
+TITLE: QuakeSim: Increasing Utility of Spacebourne and Ground-based Earthquake Fault Data
+PRESENTATION TYPE: Assigned by Committee
+SECTION/FOCUS GROUP: Earth and Space Science Informatics (IN)
+SESSION: Earth and Space Science Informatics General Contributions (IN01)
+
+AUTHORS (FIRST NAME, LAST NAME): Jay W Parker1, Margaret T Glasscoe1, Andrea  Donnellan1, Robert A Granat1, John Belting Rundle2, Dennis  McLeod6, Rami  Al-Ganmi6, Lisa  Grant Ludwig3, Geoffrey  Fox4, Marlon  Pierce4, Walt  Brooks5
+
+INSTITUTIONS (ALL): 1. Jet Propulsion Laboratory, Pasadena, CA, USA.
+2. UC Davis, Davis, CA, USA.
+3. UC Irvine, Irvine, CA, USA.
+4. Indiana University, Bloomington, IN, USA.
+5. NASA Ames, Moffett Field, CA, USA.
+6. University of Southern California, Los Angeles, CA, USA.
+Title of Team:
+
+ABSTRACT BODY: The NASA QuakeSim program unites many components of earthquake fault data and modeling toward short-term forecasts of major earthquake events. The QuakeTables component enables widespread web access to multiple self-consistent earthquake fault models and an increasing set of GPS and InSAR dispalcement data. These data are ingested by a variety of QuakeSim models and pattern analysis techniques, including elastic half space inversions, finite element continuum models, Hidden Markov models and Pattern Informatics-based forecasting methods. These tools are migrating to Web 2.0 tools, such as Google Gadgets. 

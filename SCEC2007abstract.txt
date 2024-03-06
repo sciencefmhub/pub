@@ -1,0 +1,6 @@
+Abstract Title:
+	The QuakeSim Modeling Environment
+Author(s):
+	Donnellan, Andrea (JPL), John Rundle (UC Davis), Lisa Grant (UC Irvine), Dennis McLeod (USC), Geoffrey Fox (Indiana U), Marlon Pierce (Indiana U), Terry Tullis (Brown U), Walt Brooks (NASA Ames), Jay Parker (JPL), and Robert Granat (JPL)
+Abstract:
+	QuakeSim is a NASA-funded modeling and simulation environment for understanding earthquake and tectonic processes. The focus of QuakeSim is on the interseismic part of the earthquake cycle, including leading up to fault failure and postseismic crustal response using various boundary element, finite element, and analytic applications, which run on platforms including desktop and high end computers. We integrate and deliver paleoseismic fault, GPS, and seismicity data through our QuakeTables database. In the future we will make processed InSAR data available. One goal of the project is to test possible interpretations of faults through models and simulations; hence the database can house more than one record for a given fault. The QuakeSim modeling environment is integrated through a web-services portal environment, which can be accessed from the http://quakesim.org web page.

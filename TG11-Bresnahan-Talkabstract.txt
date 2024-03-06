@@ -1,0 +1,37 @@
+  Managing Appliance Launches in Infrastructure Clouds
+
+
+      Authors:
+
+John Bresnahan (Argonne National Laboratory), Tim Freeman (University of
+Chicago), David Labissoniere (University of Chicago), Kate Keahey
+(Argonne National Laboratory)
+
+
+      Time:
+
+2:45pm - 5:15pm
+
+
+      Abstract:
+
+Infrastructure cloud computing introduces a significant paradigm shift
+that has the potential to revolutionize how scientific computing is
+done. However, while it is actively adopted by a number of scientific
+communities, it is still lacking a well-developed and mature ecosystem
+that will allow the scientific community to better leverage the
+capabilities it offers. This paper introduces a specific addition to the
+infrastructure cloud ecosystem: the cloudinit.d program, a tool for
+launching, configuring, monitoring, and repairing a set of
+interdependent virtual machines in an Infrastructure-as-a-Service (IaaS)
+cloud or over a set of IaaS clouds. The cloudinit.d program was
+developed in the context of the Ocean Observatory Initiative (OOI)
+project to help it launch and maintain complex virtual platforms
+provisioned on-demand on top of infrastructure clouds. Like the UNIX
+init.d program, cloudinit.d can launch specified groups of services, and
+the VMs in which they run, at different run levels representing
+dependencies of the launched VMs. Once launched, cloudinit.d monitors
+the health of each running service to ensure that the overall
+application is operating properly. If a problem is detected in a service
+cloudinit.d will restart only that service, and any other service that
+failed which depended upon it.

@@ -1,0 +1,32 @@
+An Introduction to the TeraGrid Track 2D Systems: Future Grid, Gordon,
+and Keeneland
+
+Presenters: Robert Sinkovits, Renato Figueiredo, Jeffrey Vetter
+
+Level: Introductory
+
+Length: Full day
+
+Time: 8:00am - 5:00pm
+
+Abstract: This tutorial will consist of a series of three sessions, each
+focusing on one of the Track 2D systems: Future Grid, Gordon, and
+Keeneland. Each session will start with a brief overview of the
+performance metrics and overall organization of the system, with an
+emphasis on the unique architectural features. The majority of the time
+though will be spent addressing the issues that impact end users and
+application developers. We will describe the types of codes, algorithms,
+and middleware that are expected to run well on each system. Where
+applicable, this will be based on the results of benchmarking studies
+carried out on the production hardware or early prototypes. We will then
+cover the use of performance monitoring tools and techniques for
+achieving better performance. Programming techniques and important
+features of languages extensions and run-time environments (e.g. OpenMP,
+CUDA, Hadoop/MapReduce) needed to efficiently use the machine will also
+be described. Each session will conclude with advice on writing a
+successful allocations proposal, stressing the need to provide a strong
+justification for access to the requested resource.
+
+Prerequisites:
+
+Requirements: None
